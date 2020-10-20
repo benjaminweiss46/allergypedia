@@ -1,0 +1,81 @@
+header, article, footer {
+				display: block;}
+* {
+	font-family; Arial, Verdana, sans-serif;}
+
+nav li {
+		margin-right: 40px;
+		display: inline;}
+
+#content {
+		display: block;}
+
+nav {
+	margin-top: -10px;
+	float: left;
+	display: inline-block;
+	font-size: 22px;
+	margin-left: 5px;}
+
+h2.first {	
+	margin-top: 12px;
+	float: left;
+	display: inline-block;
+	margin-left: 70px;}
+
+header {
+		margin-top: -10px;
+		background-color: DeepSkyBlue;
+		overflow: auto;
+		margin-left: -10px;
+		margin-right: -10px;
+		height: 50px;
+		overflow-y: hidden;}
+form {
+	font-weight: bold;
+	font-size:80px;
+	display: inline;}
+
+nav a	{	
+		color:black;
+		font-weight: bold;
+		text-decoration: none;}
+a {
+	text-decoration: none;}
+		
+a:link {
+    
+}
+
+a:visited {
+    
+}
+
+nav a:hover {
+   	 	color: blue;}
+
+a:active {
+    
+}
+
+body {
+	background-color: Linen;
+	overflow-x: hidden;
+	overflow-y: scroll;}
+
+footer {
+		margin-left: 850px;}
+input {
+		padding: 30px;
+		font-size: 40px;}
+article {
+		
+		text-align:center;}
+h1 {
+	padding-left: 50px;
+	font-size: 160px;}
+p {
+	
+	padding-top: -60px;
+	text-align:center;
+	font-size: 60px;}
